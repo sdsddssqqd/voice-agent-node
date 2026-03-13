@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon index.ts",
     "start:debug": "node-ts index.ts",
-    "build": "echo 'no build step'",
+    "build": "echo 'no build step'"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
