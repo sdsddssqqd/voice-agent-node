@@ -4,7 +4,7 @@
   "license": "SEE LICENSE IN LICENSE.md and LICENSE-CPP-BINARIES.md",
   "scripts": {
     "start": "nodemon index.ts",
-    "start:debug": "node-ts index.ts"
+    "start:debug": "node-ts index.ts",
     "build": "echo 'no build step'"
   },
   "devDependencies": {
